@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-app/blongo/static/css/main.2d40918a.chunk.css",
+    "main.js": "/my-app/blongo/static/js/main.a317a7a7.chunk.js",
+    "main.js.map": "/my-app/blongo/static/js/main.a317a7a7.chunk.js.map",
+    "runtime-main.js": "/my-app/blongo/static/js/runtime-main.46c15af3.js",
+    "runtime-main.js.map": "/my-app/blongo/static/js/runtime-main.46c15af3.js.map",
+    "static/js/2.a7e086d9.chunk.js": "/my-app/blongo/static/js/2.a7e086d9.chunk.js",
+    "static/js/2.a7e086d9.chunk.js.map": "/my-app/blongo/static/js/2.a7e086d9.chunk.js.map",
+    "index.html": "/my-app/blongo/index.html",
+    "static/css/main.2d40918a.chunk.css.map": "/my-app/blongo/static/css/main.2d40918a.chunk.css.map",
+    "static/js/2.a7e086d9.chunk.js.LICENSE.txt": "/my-app/blongo/static/js/2.a7e086d9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/my-app/blongo/static/media/tatto.0c796386.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46c15af3.js",
+    "static/js/2.a7e086d9.chunk.js",
+    "static/css/main.2d40918a.chunk.css",
+    "static/js/main.a317a7a7.chunk.js"
+  ]
+}
