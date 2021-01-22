@@ -1,0 +1,244 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&display=swap');
+
+body{
+  overflow-x:hidden;
+  background-color:#1A022B ;
+  background-position:center;
+  background-attachment:inherit;
+  background-position-x: center;
+  z-index: 1;
+  background-position-y:top;
+  background-image:url(./images/Web\ 1920\ –\ 1.png) ;
+  background-repeat: no-repeat;
+}
+::placeholder{
+  font-family: Dosis;
+  font-size: 12px;
+}
+.common h1{
+  position: absolute;
+  z-index:-1;
+  font-size: 30px;
+  margin-top: 330px;
+  margin-left: 695px;
+  color: white;
+  font-family: Dosis;
+}
+ .common input{
+   font-family: sans-serif;
+   background-color: #280343;
+   border-top-color: transparent;
+   border-left-color: transparent;
+   border-right-color: transparent;
+   padding:15px;
+   font-size: 20px;
+    position: absolute;
+    margin-left: 630px;
+    margin-top: 400px;
+    color: white;
+    outline: transparent;
+    border-bottom:#862CFF 2px solid ;
+ }
+ .common textarea{
+  font-family: sans-serif;
+  background-color: #280343;
+  border-top-color: transparent;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  padding:15px;
+  font-size: 20px;
+   position: absolute;
+   margin-left: 630px;
+   margin-top: 400px;
+   color: white;
+   outline: transparent;
+   border-bottom:#862CFF 2px solid ;
+}
+ .common button{
+  position: absolute;
+  margin-left: 730px;
+  margin-top: 400px;
+  background-color: #761AF3;
+  border-radius: 30px;
+  outline: transparent;
+  border: transparent;
+  padding: 20px;
+  color:white;
+ }
+ ::placeholder{
+   color: white;
+ }
+#post{
+  margin-top: 700px;
+  margin-left: 350px;
+  margin-right: 350px;
+  box-shadow:20px white;
+}
+p{
+  word-wrap: break-word;
+  font-family:Dosis;
+  color: rgb(255, 254, 254);
+  font-size: 25px;
+  background: rgb(25,0,56);
+  background: linear-gradient(67deg, rgba(25,0,56,1) 0%, rgba(126,16,162,1) 84%, rgba(147,89,252,1) 100%);
+  border-radius: 30px;
+  padding:30px ;
+  font-weight: bolder;
+  border:2px solid rgb(180, 19, 243);
+ 
+ }
+
+.name{
+  font-size: 25px;
+  color: white;
+  font-family:Dosis;
+}
+#post h1{
+  font-size: 30px;
+  font-family: Hachi Maru Pop;
+  font-size: 30px;
+  position: absolute;
+  margin-top: -90px;
+  color: white;
+  margin-left: 250px;
+}
+.loading{
+  position: fixed;
+  background-color:#1A022B;
+  z-index: 2;
+  height: 1200px;
+  width:2300px;
+  margin-top: -500px;
+}
+.loading h1{
+  color: white;
+  font-size: 30px;
+  margin-left: 700px;
+  margin-top: 700px;
+  font-family: Dosis;
+}
+@media only screen and (min-width : 364px){
+  @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&display=swap');
+
+body{
+  overflow-x:hidden;
+  background-color:#1A022B ;
+  background-position:center;
+  background-position-x: center;
+  z-index: 1;
+  background-position-y:top;
+  background-image:url(./images/tatto.png) ;
+  background-repeat: no-repeat;
+}
+::placeholder{
+  font-family: Dosis;
+  font-size: 12px;
+}
+.common h1{
+  position: absolute;
+  z-index:-1;
+  font-size: 20px;
+  margin-top: 250px;
+  margin-left: 120px;
+  color: white;
+  font-family: Dosis;
+}
+ .common input{
+   font-family: sans-serif;
+   background-color: #280343;
+   border-top-color: transparent;
+   border-left-color: transparent;
+   border-right-color: transparent;
+   padding:15px;
+   font-size: 20px;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 300px;
+    color: white;
+    outline: transparent;
+    border-bottom:#862CFF 2px solid ;
+ }
+ .common textarea{
+  font-family: sans-serif;
+  background-color: #280343;
+  border-top-color: transparent;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  padding:15px;
+  font-size: 20px;
+   position: absolute;
+   margin-left: 44px;
+   margin-top: 300px;
+   color: white;
+   outline: transparent;
+   border-bottom:#862CFF 2px solid ;
+}
+ .common button{
+  position: absolute;
+  margin-left: 130px;
+  margin-top: 320px;
+  background-color: #761AF3;
+  border-radius: 30px;
+  outline: transparent;
+  border: transparent;
+  padding: 20px;
+  color:white;
+ }
+ ::placeholder{
+   color: white;
+ }
+#post{
+  margin-top: 720px;
+  margin-left: 50px;
+  margin-right: 50px;
+  box-shadow:20px white;
+}
+p{
+  word-wrap: break-word;
+  font-family:Dosis;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  background: rgb(25,0,56);
+  background: linear-gradient(67deg, rgba(25,0,56,1) 0%, rgba(126,16,162,1) 84%, rgba(147,89,252,1) 100%);
+  border-radius: 30px;
+  padding:30px ;
+  font-weight: bolder;
+  border:2px solid rgb(180, 19, 243);
+ 
+ }
+
+.name{
+  font-size: 25px;
+  color: white;
+  font-family:Dosis;
+}
+#post h1{
+  font-size: 30px;
+  font-family: Hachi Maru Pop;
+  font-size: 20px;
+  position: absolute;
+  margin-top: -90px;
+  color: white;
+  margin-left: 20px;
+}
+.loading{
+  position: fixed;
+  background-color:#1A022B;
+  z-index: 2;
+  height: 1000px;
+  width:364px;
+  margin-top: -500px;
+}
+.loading h1{
+  color: white;
+  font-size: 30px;
+  margin-left: 70px;
+  margin-top: 70px;
+  font-family: Dosis;
+}
+
+}
